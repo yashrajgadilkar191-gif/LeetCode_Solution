@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1321-restaurant-growth](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1341-movie-rating) |
+| [1667-fix-names-in-a-table](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
