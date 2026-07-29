@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [1321-restaurant-growth](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1341-movie-rating) |
 | [1484-group-sold-products-by-the-date](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1527-patients-with-a-condition) |
