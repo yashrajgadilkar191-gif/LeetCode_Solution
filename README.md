@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0585-investments-in-2016) |
+| [0601-human-traffic-of-stadium](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0608-tree-node](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0620-not-boring-movies) |
