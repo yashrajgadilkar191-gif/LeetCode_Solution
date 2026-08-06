@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1693-daily-leads-and-partners) |
 | [3220-odd-and-even-transactions](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3220-odd-and-even-transactions) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
