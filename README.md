@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3586-find-covid-recovery-patients](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3611-find-overbooked-employees) |
+## Array
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
