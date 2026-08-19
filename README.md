@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1920-build-array-from-permutation](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
