@@ -53,8 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1920-build-array-from-permutation](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
