@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1693-daily-leads-and-partners) |
+| [1795-rearrange-products-table](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1795-rearrange-products-table) |
 | [3220-odd-and-even-transactions](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3421-find-students-who-improved) |
 | [3451-find-invalid-ip-addresses](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3451-find-invalid-ip-addresses) |
