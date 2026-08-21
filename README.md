@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-dna-pattern-recognition](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3475-dna-pattern-recognition) |
 | [3497-analyze-subscription-conversion](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3497-analyze-subscription-conversion) |
 | [3521-find-product-recommendation-pairs](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3521-find-product-recommendation-pairs) |
+| [3564-seasonal-sales-analysis](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3564-seasonal-sales-analysis) |
 | [3580-find-consistently-improving-employees](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3580-find-consistently-improving-employees) |
 | [3586-find-covid-recovery-patients](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
