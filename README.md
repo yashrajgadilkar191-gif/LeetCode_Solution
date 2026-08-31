@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1084-sales-analysis-iii](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1084-sales-analysis-iii) |
 | [1158-market-analysis-i](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1158-market-analysis-i) |
 | [1179-reformat-department-table](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/yashrajgadilkar191-gif/LeetCode_Solution/tree/master/1193-monthly-transactions-i) |
